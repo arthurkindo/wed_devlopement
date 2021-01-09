@@ -1,0 +1,25 @@
+body{
+  background-color:#a6e3e9;
+}
+hr{
+  border-style: dotted;
+  width: 7%;
+  border-width: 8px 0px 0px;
+  border-color: #1fab89;
+}
+p{
+    border: 3px;
+    width: 30%;
+    border-style: double;
+    border-color: #00917c;
+    font-family: cursive;
+    font-size: 35px;
+    overflow-wrap: break-word;
+}
+img{
+  width: 80%;
+  background-color: #a6e3e9;
+}
+h1, h3{
+    color: #ea5455;
+}
