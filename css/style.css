@@ -9,7 +9,7 @@ hr{
 }
 p{
     border: 3px;
-    width: 30%;
+    width: 50%;
     border-style: double;
     border-color: #ff02dd;
     font-family: cursive;
@@ -19,6 +19,16 @@ p{
 img{
   width: 80%;
 }
-h1, h3{
+h1, h3, h2{
     color: #f88f01;
+}
+
+div{
+  background-color: #bbbfca;
+  width: 50%;
+}
+
+#footer-link{
+  background-color:#fcf8ec;
+  font-size: larger;
 }
